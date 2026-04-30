@@ -20,3 +20,5 @@ Welcome to my blog! I am a cybersecurity student at BYU, and I use this space to
 Favicon deer head logo: [Deer Vector by Vecteezy](https://www.vecteezy.com/free-vector/deer)
 
 Magic: The Gathering card image © Wizards of the Coast (artist: Jehan Choo)
+
+[Name inspiration](https://en.wikipedia.org/wiki/Elk_Cloner)
